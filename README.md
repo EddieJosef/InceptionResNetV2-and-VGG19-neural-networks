@@ -23,8 +23,7 @@ To use the code provided in this repository, follow these steps:
 
 2. Download the pretrained weights for InceptionResNetV2 and VGG19 models. The weights can be obtained from the Keras documentation or the official GitHub repository.
 
-3. Open the Jupyter Notebook file corresponding to the desired model (either `inceptionresnetv2.ipynb` or `vgg19.ipynb`).
-
+3. Open the Jupyter Notebook
 4. Run the notebook cells sequentially to load the model, preprocess the test images, and make predictions.
 
 ## Test Images
